@@ -1,4 +1,4 @@
-## Data lab notebook
+
 
 <div align="center">
 
@@ -12,7 +12,6 @@
 
 </div>
 
-## Evidence
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stats?username=josevitorsf&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337152770%3Fu%3Db45ff592f436bf6213eeabb65db1333cd1b06595%26v%3D4" alt="josevitorsf stats visual" />
